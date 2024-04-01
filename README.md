@@ -6,8 +6,8 @@ Ensure the data is in the same directory under the folder `AdultData`
 
 You can run these commands to test the tasks.
 ```
-python3 ./hw2-1-laplace.py
-python3 ./hw2-2-exponential.py
+python ./hw2-1-laplace.py
+python ./hw2-2-exponential.py
 ```
 You can check the output under the dest folder.
 
